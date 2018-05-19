@@ -1,0 +1,3 @@
+integration_homepage:
+    path:     /
+    defaults: { _controller: IntegrationBundle:Default:index }
